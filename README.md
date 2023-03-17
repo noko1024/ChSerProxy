@@ -1,2 +1,2 @@
-# ChSerProxy
+# ChaSerProxy
 KPC-U16のCHaserServerとCHaserConnect.rbをプロキシする
